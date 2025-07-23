@@ -5,6 +5,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		System.out.println("Testing Git branch...");
 		System.out.println("adding another line");
+		System.out.println("adding 3rd line");
 
 	}
 
